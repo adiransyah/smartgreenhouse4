@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "674798106942",
+    "firebase_url": "https://smartgreenhouse-87ad6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartgreenhouse-87ad6",
+    "storage_bucket": "smartgreenhouse-87ad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674798106942:android:6cda4d9db8729e5b40146f",
+        "android_client_info": {
+          "package_name": "com.example.smartgreenhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674798106942-a64n249rp1t3b5693fasv3gfvi9ctipk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVE4Sdhsxtwl9armlA_ogXOwOqvrxgS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674798106942-a64n249rp1t3b5693fasv3gfvi9ctipk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674798106942:android:3a45eee433d2a6df40146f",
+        "android_client_info": {
+          "package_name": "com.example.smartgreenhouse2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674798106942-a64n249rp1t3b5693fasv3gfvi9ctipk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVE4Sdhsxtwl9armlA_ogXOwOqvrxgS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674798106942-a64n249rp1t3b5693fasv3gfvi9ctipk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
